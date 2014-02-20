@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "tape": "~2.4.2"
+  },
+  "name": "mongo-fs",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "~2.4.2"
+  },
+  "scripts": {
+    "test": "tape ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Battlefy/Mongo-FS.git"
+  },
+  "author": "Battlefy <info@battlefy.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Battlefy/Mongo-FS/issues"
+  },
+  "homepage": "https://github.com/Battlefy/Mongo-FS"
+}
